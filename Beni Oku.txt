@@ -1,0 +1,2 @@
+Uygulamanın Kullanımı Çok Basit Ve Kolay Bir Arayüze Sahip. Çalıştırmak için Klasörün İçindeki Dist Klasöründe bulunan NotDefteri.exe dosyasını açmanız -
+yeterlidir 
